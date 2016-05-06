@@ -1,0 +1,1 @@
+Download this zip and upload into your wodpress Theme
